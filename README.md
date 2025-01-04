@@ -7,3 +7,5 @@ SCRIPT BOT TELEGRAM
 # NOTE
 sc bots are prohibited, don't spam ddos ​​too much, so the ddos ​​method lasts
 JANGAN SPAM, JANGAN LUPA JEDA DDOS
+
+# SCRIPT
